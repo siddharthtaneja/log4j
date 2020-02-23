@@ -1,0 +1,79 @@
+[INFO ] 2020-02-19 14:50:59.057 [main] App - This is info msg
+[WARN ] 2020-02-19 14:50:59.064 [main] App - This is warning msg
+[INFO ] 2020-02-19 14:51:39.866 [main] App - This is info msg
+[WARN ] 2020-02-19 14:51:39.870 [main] App - This is warning msg
+[TRACE] 2020-02-19 14:53:02.858 [main] App - This is a trace msg
+[INFO ] 2020-02-19 14:53:02.861 [main] App - This is info msg
+[WARN ] 2020-02-19 14:53:02.861 [main] App - This is warning msg
+[INFO ] 2020-02-19 15:17:50.929 [main] App - Enter 1 to calculate Simple or Compound INterest
+Enter 2 to calculate House Construction cost
+Enter 0 to exit 
+[WARN ] 2020-02-19 15:18:03.764 [main] App - null
+[INFO ] 2020-02-19 15:18:03.764 [main] App - Enter 1 to calculate Simple or Compound INterest
+Enter 2 to calculate House Construction cost
+Enter 0 to exit 
+[INFO ] 2020-02-19 15:18:39.966 [main] App - Enter 1 to calculate Simple or Compound INterest
+Enter 2 to calculate House Construction cost
+Enter 0 to exit 
+[WARN ] 2020-02-19 15:18:42.796 [main] App - Invalid input
+[INFO ] 2020-02-19 15:18:42.796 [main] App - Enter 1 to calculate Simple or Compound INterest
+Enter 2 to calculate House Construction cost
+Enter 0 to exit 
+[INFO ] 2020-02-19 15:19:18.863 [main] App - Enter 1 to calculate Simple or Compound INterest
+Enter 2 to calculate House Construction cost
+Enter 0 to exit 
+[WARN ] 2020-02-19 15:19:24.508 [main] App - Invalid input
+[INFO ] 2020-02-19 15:19:24.508 [main] App - Enter 1 to calculate Simple or Compound INterest
+Enter 2 to calculate House Construction cost
+Enter 0 to exit 
+[WARN ] 2020-02-19 15:19:29.554 [main] App - Invalid input
+[INFO ] 2020-02-19 15:19:29.554 [main] App - Enter 1 to calculate Simple or Compound INterest
+Enter 2 to calculate House Construction cost
+Enter 0 to exit 
+[WARN ] 2020-02-19 15:19:32.587 [main] App - Invalid input
+[INFO ] 2020-02-19 15:19:32.587 [main] App - Enter 1 to calculate Simple or Compound INterest
+Enter 2 to calculate House Construction cost
+Enter 0 to exit 
+[INFO ] 2020-02-19 15:19:36.754 [main] SimpleAndCompoundInterest - Enter 1 for Simple Interest 
+Enter 2 for Compound Interest
+Enter 0 to exit the application
+[WARN ] 2020-02-19 15:19:44.968 [main] SimpleAndCompoundInterest - Invalid input
+[INFO ] 2020-02-19 15:19:44.968 [main] SimpleAndCompoundInterest - Enter 1 for Simple Interest 
+Enter 2 for Compound Interest
+Enter 0 to exit the application
+[INFO ] 2020-02-19 15:19:50.685 [main] SimpleAndCompoundInterest - Enter Principal Amount
+[INFO ] 2020-02-19 15:19:56.050 [main] SimpleAndCompoundInterest - Enter rate of interest
+[INFO ] 2020-02-19 15:20:00.227 [main] SimpleAndCompoundInterest - Enter Time
+[INFO ] 2020-02-19 15:20:05.595 [main] SimpleAndCompoundInterest - Compound Interest :579.3985744551946
+[INFO ] 2020-02-19 15:20:05.595 [main] SimpleAndCompoundInterest - Enter 1 for Simple Interest 
+Enter 2 for Compound Interest
+Enter 0 to exit the application
+[INFO ] 2020-02-19 15:20:12.421 [main] SimpleAndCompoundInterest - Enter Principal Amount
+[INFO ] 2020-02-19 15:20:15.996 [main] SimpleAndCompoundInterest - Enter rate of interest
+[INFO ] 2020-02-19 15:20:18.874 [main] SimpleAndCompoundInterest - Enter Time
+[INFO ] 2020-02-19 15:20:21.442 [main] SimpleAndCompoundInterest - Compound Interest :4.225875252850315
+[INFO ] 2020-02-19 15:20:21.443 [main] SimpleAndCompoundInterest - Enter 1 for Simple Interest 
+Enter 2 for Compound Interest
+Enter 0 to exit the application
+[WARN ] 2020-02-19 15:20:28.051 [main] SimpleAndCompoundInterest - Invalid input
+[INFO ] 2020-02-19 15:20:28.051 [main] SimpleAndCompoundInterest - Enter 1 for Simple Interest 
+Enter 2 for Compound Interest
+Enter 0 to exit the application
+[INFO ] 2020-02-19 15:20:30.440 [main] App - Enter 1 to calculate Simple or Compound INterest
+Enter 2 to calculate House Construction cost
+Enter 0 to exit 
+[INFO ] 2020-02-19 15:20:33.797 [main] HouseConstruction - Enter area of the house
+[INFO ] 2020-02-19 15:20:37.904 [main] HouseConstruction - Press 1 for Standard Material
+Press 2 for Above Standards 
+Press 3 for High Standards
+Press 4 for Fully Automated
+Press 0 for Exiting the Application
+[TRACE] 2020-02-19 15:20:41.628 [main] HouseConstruction - 4.39992E7
+[INFO ] 2020-02-19 15:20:41.628 [main] HouseConstruction - Press 1 for Standard Material
+Press 2 for Above Standards 
+Press 3 for High Standards
+Press 4 for Fully Automated
+Press 0 for Exiting the Application
+[INFO ] 2020-02-19 15:20:48.740 [main] App - Enter 1 to calculate Simple or Compound INterest
+Enter 2 to calculate House Construction cost
+Enter 0 to exit 
